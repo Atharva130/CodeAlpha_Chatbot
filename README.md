@@ -1,4 +1,4 @@
-# Chatbot 
+# Basic Chatbot 
 
 Hello there! 👋  
 This repository contains a simple text-based **chatbot** created for the **Python Programming Internship at CodeAlpha**.
