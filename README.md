@@ -1,4 +1,6 @@
-## Hello there! 👋  
+# Chatbot 
+
+Hello there! 👋  
 This repository contains a simple text-based **chatbot** created for the **Python Programming Internship at CodeAlpha**.
 
 ## 💡 Project Overview
@@ -23,3 +25,4 @@ This chatbot mimics a simple conversational experience. It responds to a few pre
 
 ```bash
 python chatbot.py
+```
